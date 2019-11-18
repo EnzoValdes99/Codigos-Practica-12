@@ -1,5 +1,6 @@
 #include "funciones.h"
 #include "funciones.c"
+#include "complex.h"
 #include <stdio.h>
 
 
